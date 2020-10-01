@@ -1,2 +1,2 @@
-# Ada-Lovelace-Front
+# Ada-Lovelace-Front-Dev
 React - Redux front-end
